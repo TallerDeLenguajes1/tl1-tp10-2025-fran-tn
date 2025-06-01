@@ -1,0 +1,15 @@
+C:\Users\Alumno\Desktop\tp9\tl1-tp10-2025-fran-tn\tareas\bin\Debug\net8.0\tareas.exe
+C:\Users\Alumno\Desktop\tp9\tl1-tp10-2025-fran-tn\tareas\bin\Debug\net8.0\tareas.deps.json
+C:\Users\Alumno\Desktop\tp9\tl1-tp10-2025-fran-tn\tareas\bin\Debug\net8.0\tareas.runtimeconfig.json
+C:\Users\Alumno\Desktop\tp9\tl1-tp10-2025-fran-tn\tareas\bin\Debug\net8.0\tareas.dll
+C:\Users\Alumno\Desktop\tp9\tl1-tp10-2025-fran-tn\tareas\bin\Debug\net8.0\tareas.pdb
+C:\Users\Alumno\Desktop\tp9\tl1-tp10-2025-fran-tn\tareas\obj\Debug\net8.0\tareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\tp9\tl1-tp10-2025-fran-tn\tareas\obj\Debug\net8.0\tareas.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\tp9\tl1-tp10-2025-fran-tn\tareas\obj\Debug\net8.0\tareas.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\tp9\tl1-tp10-2025-fran-tn\tareas\obj\Debug\net8.0\tareas.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\tp9\tl1-tp10-2025-fran-tn\tareas\obj\Debug\net8.0\tareas.sourcelink.json
+C:\Users\Alumno\Desktop\tp9\tl1-tp10-2025-fran-tn\tareas\obj\Debug\net8.0\tareas.dll
+C:\Users\Alumno\Desktop\tp9\tl1-tp10-2025-fran-tn\tareas\obj\Debug\net8.0\refint\tareas.dll
+C:\Users\Alumno\Desktop\tp9\tl1-tp10-2025-fran-tn\tareas\obj\Debug\net8.0\tareas.pdb
+C:\Users\Alumno\Desktop\tp9\tl1-tp10-2025-fran-tn\tareas\obj\Debug\net8.0\tareas.genruntimeconfig.cache
+C:\Users\Alumno\Desktop\tp9\tl1-tp10-2025-fran-tn\tareas\obj\Debug\net8.0\ref\tareas.dll
