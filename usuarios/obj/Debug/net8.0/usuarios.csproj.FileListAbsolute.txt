@@ -1,0 +1,15 @@
+C:\Users\Alumno\Desktop\tp9\tl1-tp10-2025-fran-tn\usuarios\obj\Debug\net8.0\usuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\tp9\tl1-tp10-2025-fran-tn\usuarios\obj\Debug\net8.0\usuarios.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\tp9\tl1-tp10-2025-fran-tn\usuarios\obj\Debug\net8.0\usuarios.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\tp9\tl1-tp10-2025-fran-tn\usuarios\obj\Debug\net8.0\usuarios.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\tp9\tl1-tp10-2025-fran-tn\usuarios\obj\Debug\net8.0\usuarios.sourcelink.json
+C:\Users\Alumno\Desktop\tp9\tl1-tp10-2025-fran-tn\usuarios\bin\Debug\net8.0\usuarios.exe
+C:\Users\Alumno\Desktop\tp9\tl1-tp10-2025-fran-tn\usuarios\bin\Debug\net8.0\usuarios.deps.json
+C:\Users\Alumno\Desktop\tp9\tl1-tp10-2025-fran-tn\usuarios\bin\Debug\net8.0\usuarios.runtimeconfig.json
+C:\Users\Alumno\Desktop\tp9\tl1-tp10-2025-fran-tn\usuarios\bin\Debug\net8.0\usuarios.dll
+C:\Users\Alumno\Desktop\tp9\tl1-tp10-2025-fran-tn\usuarios\bin\Debug\net8.0\usuarios.pdb
+C:\Users\Alumno\Desktop\tp9\tl1-tp10-2025-fran-tn\usuarios\obj\Debug\net8.0\usuarios.dll
+C:\Users\Alumno\Desktop\tp9\tl1-tp10-2025-fran-tn\usuarios\obj\Debug\net8.0\refint\usuarios.dll
+C:\Users\Alumno\Desktop\tp9\tl1-tp10-2025-fran-tn\usuarios\obj\Debug\net8.0\usuarios.pdb
+C:\Users\Alumno\Desktop\tp9\tl1-tp10-2025-fran-tn\usuarios\obj\Debug\net8.0\usuarios.genruntimeconfig.cache
+C:\Users\Alumno\Desktop\tp9\tl1-tp10-2025-fran-tn\usuarios\obj\Debug\net8.0\ref\usuarios.dll
