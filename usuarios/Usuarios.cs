@@ -1,37 +1,39 @@
 namespace EspacioUsuarios;
 
-public class Geo{                                                      
-    public long lat
+public class Geo
+{
+    public string lat
     {
-        get;set;
-    }                            
-    public long lng
+        get; set;
+    }
+    public string lng
     {
-        get;set;
+        get; set;
     }
 
 }
 
-public class Address{
+public class Address
+{
     public string street
     {
-        get;set;
+        get; set;
     }
     public string suite
     {
-        get;set;
+        get; set;
     }
     public string city
     {
-        get;set;
+        get; set;
     }
     public string zipcode
     {
-        get;set;
+        get; set;
     }
     public Geo geo
     {
-        get;set;
+        get; set;
     }
 
 }

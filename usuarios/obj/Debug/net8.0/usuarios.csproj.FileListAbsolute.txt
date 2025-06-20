@@ -13,3 +13,18 @@ C:\Users\Alumno\Desktop\tp9\tl1-tp10-2025-fran-tn\usuarios\obj\Debug\net8.0\refi
 C:\Users\Alumno\Desktop\tp9\tl1-tp10-2025-fran-tn\usuarios\obj\Debug\net8.0\usuarios.pdb
 C:\Users\Alumno\Desktop\tp9\tl1-tp10-2025-fran-tn\usuarios\obj\Debug\net8.0\usuarios.genruntimeconfig.cache
 C:\Users\Alumno\Desktop\tp9\tl1-tp10-2025-fran-tn\usuarios\obj\Debug\net8.0\ref\usuarios.dll
+D:\Colección BCRA\usuarios\alumno\escritorio\ultimo\tl1-tp10-2025-fran-tn\usuarios\bin\Debug\net8.0\usuarios.exe
+D:\Colección BCRA\usuarios\alumno\escritorio\ultimo\tl1-tp10-2025-fran-tn\usuarios\bin\Debug\net8.0\usuarios.deps.json
+D:\Colección BCRA\usuarios\alumno\escritorio\ultimo\tl1-tp10-2025-fran-tn\usuarios\bin\Debug\net8.0\usuarios.runtimeconfig.json
+D:\Colección BCRA\usuarios\alumno\escritorio\ultimo\tl1-tp10-2025-fran-tn\usuarios\bin\Debug\net8.0\usuarios.dll
+D:\Colección BCRA\usuarios\alumno\escritorio\ultimo\tl1-tp10-2025-fran-tn\usuarios\bin\Debug\net8.0\usuarios.pdb
+D:\Colección BCRA\usuarios\alumno\escritorio\ultimo\tl1-tp10-2025-fran-tn\usuarios\obj\Debug\net8.0\usuarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Colección BCRA\usuarios\alumno\escritorio\ultimo\tl1-tp10-2025-fran-tn\usuarios\obj\Debug\net8.0\usuarios.AssemblyInfoInputs.cache
+D:\Colección BCRA\usuarios\alumno\escritorio\ultimo\tl1-tp10-2025-fran-tn\usuarios\obj\Debug\net8.0\usuarios.AssemblyInfo.cs
+D:\Colección BCRA\usuarios\alumno\escritorio\ultimo\tl1-tp10-2025-fran-tn\usuarios\obj\Debug\net8.0\usuarios.csproj.CoreCompileInputs.cache
+D:\Colección BCRA\usuarios\alumno\escritorio\ultimo\tl1-tp10-2025-fran-tn\usuarios\obj\Debug\net8.0\usuarios.sourcelink.json
+D:\Colección BCRA\usuarios\alumno\escritorio\ultimo\tl1-tp10-2025-fran-tn\usuarios\obj\Debug\net8.0\usuarios.dll
+D:\Colección BCRA\usuarios\alumno\escritorio\ultimo\tl1-tp10-2025-fran-tn\usuarios\obj\Debug\net8.0\refint\usuarios.dll
+D:\Colección BCRA\usuarios\alumno\escritorio\ultimo\tl1-tp10-2025-fran-tn\usuarios\obj\Debug\net8.0\usuarios.pdb
+D:\Colección BCRA\usuarios\alumno\escritorio\ultimo\tl1-tp10-2025-fran-tn\usuarios\obj\Debug\net8.0\usuarios.genruntimeconfig.cache
+D:\Colección BCRA\usuarios\alumno\escritorio\ultimo\tl1-tp10-2025-fran-tn\usuarios\obj\Debug\net8.0\ref\usuarios.dll

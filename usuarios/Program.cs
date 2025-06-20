@@ -10,7 +10,7 @@ HttpClient client = new HttpClient();
 // Enviar Solicitud GET: Se envía una solicitud GET a la URL especificada y se verifica que la
 // respuesta sea exitosa.
 
-string url="https://jsonplaceholder.typicode.com/users";
+string url = "https://jsonplaceholder.typicode.com/users";
 HttpResponseMessage response = await client.GetAsync(url);
 response.EnsureSuccessStatusCode();
 
