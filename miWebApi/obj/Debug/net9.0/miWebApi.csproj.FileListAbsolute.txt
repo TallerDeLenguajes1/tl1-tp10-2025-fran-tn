@@ -1,0 +1,15 @@
+D:\Colección BCRA\usuarios\alumno\escritorio\ultimo\tl1-tp10-2025-fran-tn\miWebApi\obj\Debug\net9.0\miWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Colección BCRA\usuarios\alumno\escritorio\ultimo\tl1-tp10-2025-fran-tn\miWebApi\obj\Debug\net9.0\miWebApi.AssemblyInfoInputs.cache
+D:\Colección BCRA\usuarios\alumno\escritorio\ultimo\tl1-tp10-2025-fran-tn\miWebApi\obj\Debug\net9.0\miWebApi.AssemblyInfo.cs
+D:\Colección BCRA\usuarios\alumno\escritorio\ultimo\tl1-tp10-2025-fran-tn\miWebApi\obj\Debug\net9.0\miWebApi.csproj.CoreCompileInputs.cache
+D:\Colección BCRA\usuarios\alumno\escritorio\ultimo\tl1-tp10-2025-fran-tn\miWebApi\obj\Debug\net9.0\miWebApi.sourcelink.json
+D:\Colección BCRA\usuarios\alumno\escritorio\ultimo\tl1-tp10-2025-fran-tn\miWebApi\bin\Debug\net9.0\miWebApi.exe
+D:\Colección BCRA\usuarios\alumno\escritorio\ultimo\tl1-tp10-2025-fran-tn\miWebApi\bin\Debug\net9.0\miWebApi.deps.json
+D:\Colección BCRA\usuarios\alumno\escritorio\ultimo\tl1-tp10-2025-fran-tn\miWebApi\bin\Debug\net9.0\miWebApi.runtimeconfig.json
+D:\Colección BCRA\usuarios\alumno\escritorio\ultimo\tl1-tp10-2025-fran-tn\miWebApi\bin\Debug\net9.0\miWebApi.dll
+D:\Colección BCRA\usuarios\alumno\escritorio\ultimo\tl1-tp10-2025-fran-tn\miWebApi\bin\Debug\net9.0\miWebApi.pdb
+D:\Colección BCRA\usuarios\alumno\escritorio\ultimo\tl1-tp10-2025-fran-tn\miWebApi\obj\Debug\net9.0\miWebApi.dll
+D:\Colección BCRA\usuarios\alumno\escritorio\ultimo\tl1-tp10-2025-fran-tn\miWebApi\obj\Debug\net9.0\refint\miWebApi.dll
+D:\Colección BCRA\usuarios\alumno\escritorio\ultimo\tl1-tp10-2025-fran-tn\miWebApi\obj\Debug\net9.0\miWebApi.pdb
+D:\Colección BCRA\usuarios\alumno\escritorio\ultimo\tl1-tp10-2025-fran-tn\miWebApi\obj\Debug\net9.0\miWebApi.genruntimeconfig.cache
+D:\Colección BCRA\usuarios\alumno\escritorio\ultimo\tl1-tp10-2025-fran-tn\miWebApi\obj\Debug\net9.0\ref\miWebApi.dll
